@@ -1,6 +1,6 @@
-# # Sublime 3 - plugin
+# Display Colors
 
-:. Display Colors
+:. Sublime 3 plugin
 
 Add a preview of the color next to it on code.
 Tested on Linux.
