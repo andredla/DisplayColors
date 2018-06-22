@@ -13,4 +13,4 @@ Tested on Linux.
 - Then open Sublime 3 go to Edit -> Display Colors.
 
 
-![alt text](https://raw.githubusercontent.com/andredla/Sublime-3---Display-Colors/master/Display%20Colors.png)
+![alt text](https://raw.githubusercontent.com/andredla/DisplayColors/master/DisplayColors.png)
