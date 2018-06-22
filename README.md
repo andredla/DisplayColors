@@ -10,7 +10,7 @@ Tested on Linux.
 
 - Unzip the file
 - Copy the contents to the package folder of Sublime 3.
-- Then open Sublime 3 go to Edit -> Display Colors.
+- Then open Sublime 3 go to View -> Display Colors.
 
 
 ![alt text](https://raw.githubusercontent.com/andredla/DisplayColors/master/DisplayColors.png)
