@@ -1,0 +1,27 @@
+[
+    {
+        "id": "view",
+        "children": [
+            {
+                "caption": "-",
+                "id": "displaycolors"
+            },
+            {
+                "caption": "Display Colors",
+                "children": [
+                    {
+                        "caption": "Display",
+                        "command": "displaycolors"
+                    },
+                    {
+                        "caption": "-"
+                    },
+                    {
+                        "caption": "Clear",
+                        "command": "clearall"
+                    }
+                ]
+            }
+        ]
+    }
+]
