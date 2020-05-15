@@ -3,6 +3,7 @@
 :. Sublime 3 plugin
 
 Add a preview of the color next to it on code.
+Now with real time edit update.
 Tested on Linux.
 
 
